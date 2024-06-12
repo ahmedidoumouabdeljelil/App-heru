@@ -2,7 +2,7 @@ import threading
 import time
 import  pyrebase
 import numpy as np
-import tensorflow-lite-gpu as tf
+import tensorflow-lite as tf
 from flask import Flask, render_template
 from flask_socketio import SocketIO
 app = Flask(__name__)
