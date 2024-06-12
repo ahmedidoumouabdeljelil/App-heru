@@ -1,5 +1,5 @@
 Flask==3.0.0
 flask-socketio==5.2.0
 pyrebase4==4.1.0
-tensorflow-lite-gpu
+tensorflow-lite
 numpy
